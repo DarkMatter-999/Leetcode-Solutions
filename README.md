@@ -25,5 +25,6 @@
 - [40. Combination Sum II](./40.%20Combination%20Sum%20II.cpp)
 - [42. Trapping Rain Water](./42.%20Trapping%20Rain%20Water.cpp)
 - [46. Permutations](./46.%20Permutations.cpp)
+- [50. Pow(x,n)](./50.%20Pow(x,n).cpp)
 - [217. Contains Duplicate](./217.%20Contains%20Duplicate.cpp)
 - [242. Valid Anagram](./242.%20Valid%20Anagram.cpp)
