@@ -27,5 +27,6 @@
 - [46. Permutations](./46.%20Permutations.cpp)
 - [48. Rotate Image](./48.%20Rotate%20Image.cpp)
 - [50. Pow(x,n)](./50.%20Pow(x,n).cpp)
+- [53. Maximum Subarray](./53.%20Maximum%20Subarray.cpp)
 - [217. Contains Duplicate](./217.%20Contains%20Duplicate.cpp)
 - [242. Valid Anagram](./242.%20Valid%20Anagram.cpp)
