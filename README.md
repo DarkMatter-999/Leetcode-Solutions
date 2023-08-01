@@ -29,5 +29,6 @@
 - [50. Pow(x,n)](./50.%20Pow(x,n).cpp)
 - [51. N-Queens](./51.%20N-Queens.cpp)
 - [53. Maximum Subarray](./53.%20Maximum%20Subarray.cpp)
+- [61. Rotate List](./61.%20Rotate%20List.cpp)
 - [217. Contains Duplicate](./217.%20Contains%20Duplicate.cpp)
 - [242. Valid Anagram](./242.%20Valid%20Anagram.cpp)
