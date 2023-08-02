@@ -32,5 +32,6 @@
 - [56. Merge Intervals](./56.%20Merge%20Intervals.cpp)
 - [60. Permutation Sequence](./60.%20Permutation%20Sequence.cpp)
 - [61. Rotate List](./61.%20Rotate%20List.cpp)
+- [62. Unique Paths](./62.%20Unique%20Paths.cpp)
 - [217. Contains Duplicate](./217.%20Contains%20Duplicate.cpp)
 - [242. Valid Anagram](./242.%20Valid%20Anagram.cpp)
