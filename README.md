@@ -35,5 +35,6 @@
 - [62. Unique Paths](./62.%20Unique%20Paths.cpp)
 - [64. Minimum Path Sum](./64.%20Minimum%20Path%20Sum.cpp)
 - [72. Edit Distance](./72.%20Edit%20Distance.cpp)
+- [75. Sort Colors](./75.%20Sort%20Colors.cpp)
 - [217. Contains Duplicate](./217.%20Contains%20Duplicate.cpp)
 - [242. Valid Anagram](./242.%20Valid%20Anagram.cpp)
